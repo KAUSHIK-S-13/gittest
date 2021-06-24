@@ -1,5 +1,5 @@
 To print hello world
-To print learn gitgub
+To print learn gitgub and world
 To print sample git file
 
 
@@ -8,6 +8,7 @@ console.log("sample git file");
 alert("learn gitgub");
 document.write("learn gitgub");
 console.log("learn world");
+document.write("learn world");
 alert("hellow world");
 document.write("hello world");
 console.log('Hello, World!');
