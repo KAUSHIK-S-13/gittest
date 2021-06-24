@@ -1,5 +1,8 @@
 To print hello world
+To print sample git file
 
+document.write("sample git file");
+console.log("sample git file");
 alert("hellow world");
 document.write("hello world");
 console.log('Hello, World!');
