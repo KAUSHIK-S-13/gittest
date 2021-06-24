@@ -1,7 +1,8 @@
 To print hello world
 To print learn gitgub and world
 To print sample git file
-
+print("hi")
+console..logg("edit this file")
 
 document.write("sample git file");
 console.log("sample git file");
